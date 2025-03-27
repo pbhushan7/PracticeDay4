@@ -1,0 +1,7 @@
+D:\Bhushan .Net\Day4\IDisposableExample\bin\Debug\IDisposableExample.exe.config
+D:\Bhushan .Net\Day4\IDisposableExample\bin\Debug\IDisposableExample.exe
+D:\Bhushan .Net\Day4\IDisposableExample\bin\Debug\IDisposableExample.pdb
+D:\Bhushan .Net\Day4\IDisposableExample\obj\Debug\IDisposableExample.csproj.AssemblyReference.cache
+D:\Bhushan .Net\Day4\IDisposableExample\obj\Debug\IDisposableExample.csproj.CoreCompileInputs.cache
+D:\Bhushan .Net\Day4\IDisposableExample\obj\Debug\IDisposableExample.exe
+D:\Bhushan .Net\Day4\IDisposableExample\obj\Debug\IDisposableExample.pdb

@@ -1,0 +1,7 @@
+D:\Bhushan .Net\Day4\ValueType\bin\Debug\ValueType.exe.config
+D:\Bhushan .Net\Day4\ValueType\bin\Debug\ValueType.exe
+D:\Bhushan .Net\Day4\ValueType\bin\Debug\ValueType.pdb
+D:\Bhushan .Net\Day4\ValueType\obj\Debug\ValueType.csproj.AssemblyReference.cache
+D:\Bhushan .Net\Day4\ValueType\obj\Debug\ValueType.csproj.CoreCompileInputs.cache
+D:\Bhushan .Net\Day4\ValueType\obj\Debug\ValueType.exe
+D:\Bhushan .Net\Day4\ValueType\obj\Debug\ValueType.pdb

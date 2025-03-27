@@ -1,0 +1,15 @@
+D:\Bhushan .Net\Day4\InterfaceInCore\bin\Debug\net5.0\InterfaceInCore.exe
+D:\Bhushan .Net\Day4\InterfaceInCore\bin\Debug\net5.0\InterfaceInCore.deps.json
+D:\Bhushan .Net\Day4\InterfaceInCore\bin\Debug\net5.0\InterfaceInCore.runtimeconfig.json
+D:\Bhushan .Net\Day4\InterfaceInCore\bin\Debug\net5.0\InterfaceInCore.runtimeconfig.dev.json
+D:\Bhushan .Net\Day4\InterfaceInCore\bin\Debug\net5.0\InterfaceInCore.dll
+D:\Bhushan .Net\Day4\InterfaceInCore\bin\Debug\net5.0\InterfaceInCore.pdb
+D:\Bhushan .Net\Day4\InterfaceInCore\obj\Debug\net5.0\InterfaceInCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bhushan .Net\Day4\InterfaceInCore\obj\Debug\net5.0\InterfaceInCore.AssemblyInfoInputs.cache
+D:\Bhushan .Net\Day4\InterfaceInCore\obj\Debug\net5.0\InterfaceInCore.AssemblyInfo.cs
+D:\Bhushan .Net\Day4\InterfaceInCore\obj\Debug\net5.0\InterfaceInCore.csproj.CoreCompileInputs.cache
+D:\Bhushan .Net\Day4\InterfaceInCore\obj\Debug\net5.0\InterfaceInCore.dll
+D:\Bhushan .Net\Day4\InterfaceInCore\obj\Debug\net5.0\refint\InterfaceInCore.dll
+D:\Bhushan .Net\Day4\InterfaceInCore\obj\Debug\net5.0\InterfaceInCore.pdb
+D:\Bhushan .Net\Day4\InterfaceInCore\obj\Debug\net5.0\InterfaceInCore.genruntimeconfig.cache
+D:\Bhushan .Net\Day4\InterfaceInCore\obj\Debug\net5.0\ref\InterfaceInCore.dll
