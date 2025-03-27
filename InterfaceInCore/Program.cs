@@ -18,7 +18,7 @@ namespace InterfaceInCore
 
         void DefaultImp()
         {
-            Console.WriteLine("Method having default Implimentation");    
+            Console.WriteLine("Method with default Implimentation ");    
         }
 
     }
@@ -26,17 +26,17 @@ namespace InterfaceInCore
     {
         public void Delete()
         {
-            Console.WriteLine("Class1 - IDb.Delete");
+            Console.WriteLine("Class1 - IDbF.Delete");
         }
 
         public void Insert()
         {
-            Console.WriteLine("Class1 - IDb.Insert");
+            Console.WriteLine("Class1 - IDbF.Insert");
         }
 
         public void Update()
         {
-            Console.WriteLine("Class1 - IDb.Update");
+            Console.WriteLine("Class1 - IDbF.Update");
         }
         void IDbFumctions.DefaultImp()
         {
